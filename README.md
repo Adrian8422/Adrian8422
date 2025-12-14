@@ -4,11 +4,9 @@ My name is Adrián Villegas, and I am a Backend Developer with experience in web
 
 I am a professional dedicated to quality and excellence in everything I do. I enjoy teamwork and possess effective communication and collaboration skills.
 
-I am seeking opportunities to join an IT team in a company where I can grow professionally and contribute with my skills.
-
 My tech stack includes:
 
-Node.js, Microservices, Google Cloud Run, REST API, GraphQL, Docker, Express, PostgreSQL, Firestore, JavaScript, React, Next.js, TypeScript, Git, Figma, SEO, Responsive Design, HTML5, CSS3
+Node.js, Microservices, NestJS, AWS, Google Cloud Run, REST API, GraphQL, Docker, Express, PostgreSQL, Firestore, JavaScript, React, Next.js, TypeScript, Git, Figma, SEO, Responsive Design, HTML5, CSS3
 
 You can contact me at: adrian.tag.villegas@gmail.com
 
